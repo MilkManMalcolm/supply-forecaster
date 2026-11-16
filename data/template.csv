@@ -1,0 +1,5 @@
+date,product_name,units_baked,units_sold,sold_out,forecast_temperature_c,forecast_rain_mm,is_holiday,nearby_event
+2025-01-01,Pineapple buns,50,47,0,21.5,0.0,1,0
+2025-01-01,Egg tarts,40,36,1,21.5,0.0,1,0
+2025-01-02,Pineapple buns,52,50,0,20.1,2.4,0,0
+2025-01-02,Egg tarts,42,42,0,20.1,2.4,0,0
